@@ -1,0 +1,10 @@
+{
+  "name": "k-plus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harun & Vedad",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-server-express": "^0.5.2"
+  }
+}
